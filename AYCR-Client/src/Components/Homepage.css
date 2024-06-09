@@ -1,0 +1,325 @@
+
+.Homepage_Homepage {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.Homepage_Homepage .FindWhatYouWantAtTheMomentYouCanAlwaysReturnItLater {
+	position: absolute;
+	left: 88.02749997730868px;
+	top: 214.56568508617113px;
+	width: 676.0900000226914px;
+	height: 75.66000020276601px;
+	color: rgba(72,72,72,1.00);
+	font-family: Volkhov;
+	font-size: 37.83px;
+	font-weight: 400;
+	line-height: 37.83px;
+}
+.Homepage_Homepage .image941 {
+	position: absolute;
+	left: 864.2699999349811px;
+	top: 175.32757473460865px;
+	width: 302.64000006501885px;
+	height: 216.7950000907646px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Homepage_Homepage .image942 {
+	position: absolute;
+	left: 565.2674999515631px;
+	top: 485.2425155305071px;
+	width: 312.0975000484368px;
+	height: 161.50500009360113px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Homepage_Homepage .image943 {
+	position: absolute;
+	left: 1001.04px;
+	top: 584.910015530507px;
+	width: 194.24250003621867px;
+	height: 120.76500005825518px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Homepage_Homepage .image944 {
+	position: absolute;
+	left: 182.60249994894474px;
+	top: 323.7374563264055px;
+	width: 297.54750005105524px;
+	height: 170.2350000892374px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Homepage_Homepage .button {
+	position: absolute;
+	left: 666.3899999877818px;
+	top: 332.46757473460866px;
+	width: 110.58000001221816px;
+	height: 40.74000003316403px;
+	border-radius: 7.2749999999999995px;
+}
+.Homepage_Homepage .button .bg {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 110.58000001221816px;
+	height: 40.74000003316403px;
+	background: rgba(0,0,0,1.00);
+	border-radius: 7.2749999999999995px;
+}
+.Homepage_Homepage .button .Shop {
+	position: absolute;
+	left: 40.01250000872726px;
+	top: 14.549999999999999px;
+	width: 30.070000003490904px;
+	height: 11.64000000901839px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 11.64px;
+	font-weight: 400;
+	line-height: 11.64px;
+}
+.Homepage_Homepage .image946 {
+	position: absolute;
+	left: 50.92499994545385px;
+	top: 493.97251553050705px;
+	width: 181.87500005454615px;
+	height: 181.87500005454604px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Homepage_Homepage .Header {
+	position: absolute;
+	left: 234.25499998734514px;
+	top: 66.20257473460865px;
+	width: 974.8500000126548px;
+	height: 42.19500029236699px;
+}
+.Homepage_Homepage .Header .AYCR {
+	position: absolute;
+	left: 1.3091994333080948e-9px;
+	top: 2.1825px;
+	width: 101.85000001134566px;
+	height: 37.830000030545854px;
+	color: rgba(72,72,72,1.00);
+	font-family: Volkhov;
+	font-size: 37.83px;
+	font-weight: 400;
+	line-height: 37.83px;
+}
+.Homepage_Homepage .Header .NavMenu {
+	position: absolute;
+	left: 47.836442786306236%;
+	top: 9.4575px;
+	transform: translate(-50%, 0);
+	width: 347.5025000080727px;
+	height: 26.91750010421942px;
+	border-radius: 13.094999999999999px;
+}
+.Homepage_Homepage .Header .NavMenu .Home {
+	position: absolute;
+	left: 3.6375000028363047px;
+	top: 0px;
+	width: 34.92000000523635px;
+	height: 17.460000010472932px;
+	color: rgba(72,72,72,1.00);
+	font-family: Poppins;
+	font-size: 11.64px;
+	font-weight: 400;
+	line-height: 17.46px;
+}
+.Homepage_Homepage .Header .NavMenu .Shop_1 {
+	position: absolute;
+	left: 89.4825000028363px;
+	top: 0px;
+	width: 30.070000005236356px;
+	height: 17.46000000901839px;
+	color: rgba(72,72,72,1.00);
+	font-family: Poppins;
+	font-size: 11.64px;
+	font-weight: 400;
+	line-height: 17.46px;
+}
+.Homepage_Homepage .Header .NavMenu .History {
+	position: absolute;
+	left: 170.2350000028363px;
+	top: 0px;
+	width: 39.770000005236355px;
+	height: 17.460000011927477px;
+	color: rgba(72,72,72,1.00);
+	font-family: Poppins;
+	font-size: 11.64px;
+	font-weight: 400;
+	line-height: 17.46px;
+}
+.Homepage_Homepage .Header .NavMenu .CurrentlyHave {
+	position: absolute;
+	left: 261.1725000028363px;
+	top: 0px;
+	width: 86.33000000523636px;
+	height: 17.460000025891315px;
+	color: rgba(72,72,72,1.00);
+	font-family: Poppins;
+	font-size: 11.64px;
+	font-weight: 400;
+	line-height: 17.46px;
+}
+.Homepage_Homepage .Header .NavMenu .ActivePageIndicator {
+	position: absolute;
+	left: 7.854314389987849e-9px;
+	top: 26.189999999999998px;
+	width: 42.92250000021835px;
+	height: 0.7275000128729857px;
+	background: rgba(72,72,72,1.00);
+	border-radius: 13.094999999999999px;
+}
+.Homepage_Homepage .Header .Tools {
+	position: absolute;
+	left: 842.4449999999999px;
+	top: 0px;
+	width: 132.40500001265485px;
+	height: 42.19500003970959px;
+}
+.Homepage_Homepage .Header .Tools .msearchpopup {
+	position: absolute;
+	right: 94.575px;
+	top: 48.499999967397784%;
+	transform: translate(0, -50%);
+	width: 37.83000000916395px;
+	height: 30.55500001134566px;
+	display: flex;
+	padding-top: 8.73px;
+	padding-right: 12.3675px;
+	padding-bottom: 8.729359855651856px;
+	padding-left: 12.3675px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.Homepage_Homepage .Header .Tools .msearchpopup .ButtonSVG {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 13.095000003927598px;
+	height: 13.095640148275521px;
+	display: flex;
+	box-sizing: border-box;
+}
+.Homepage_Homepage .Header .Tools .msearchpopup .ButtonSVG .Vector {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 100.00488846390189%;
+	height: 100.00000000000169%;
+}
+.Homepage_Homepage .Header .Tools .Link {
+	position: absolute;
+	right: 61.11px;
+	top: 48.499999965892954%;
+	transform: translate(0, -50%);
+	width: 33.46500001265486px;
+	height: 42.19500001003646px;
+	display: flex;
+	padding-top: 13.8225px;
+	padding-right: 9.4575px;
+	padding-bottom: 13.8225px;
+	padding-left: 9.4575px;
+	box-sizing: border-box;
+	justify-content: center;
+}
+.Homepage_Homepage .Header .Tools .Link .SVG {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 14.55000000436385px;
+	height: 14.55000000436363px;
+	display: flex;
+	padding-right: 0.9093749999999999px;
+	padding-left: 0.9093749999999999px;
+	box-sizing: border-box;
+}
+.Homepage_Homepage .Header .Tools .Link .SVG .Vector_1 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 87.50000000374901%;
+	height: 99.99999999625136%;
+}
+.Homepage_Homepage .Header .Tools .Link_1 {
+	position: absolute;
+	right: 27.645px;
+	top: 48.499999965892954%;
+	transform: translate(0, -50%);
+	width: 33.46500001265486px;
+	height: 42.19500001003646px;
+	display: flex;
+	padding-top: 13.8225px;
+	padding-right: 9.4575px;
+	padding-bottom: 13.8225px;
+	padding-left: 9.4575px;
+	box-sizing: border-box;
+	justify-content: center;
+}
+.Homepage_Homepage .Header .Tools .Link_1 .SVG_1 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 14.55000000436385px;
+	height: 14.55000000436363px;
+	display: flex;
+	padding-top: 0.8080127215385436px;
+	padding-right: 0.5178269976377488px;
+	padding-bottom: 0.8070548176765442px;
+	padding-left: 0.5178261882066727px;
+	box-sizing: border-box;
+}
+.Homepage_Homepage .Header .Tools .Link_1 .SVG_1 .Vector_2 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 92.88210550824616%;
+	height: 88.89987945676113%;
+}
+.Homepage_Homepage .Header .Tools .Button {
+	position: absolute;
+	right: 0px;
+	top: 48.49999996388668%;
+	transform: translate(0, -50%);
+	width: 27.64500001003646px;
+	height: 33.46500000829101px;
+	display: flex;
+	padding-top: 9.4575px;
+	padding-right: 3.6374999999999997px;
+	padding-bottom: 9.4575px;
+	padding-left: 9.4575px;
+	box-sizing: border-box;
+	justify-content: center;
+}
+.Homepage_Homepage .Header .Tools .Button .SVG_2 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 14.55000000436385px;
+	height: 14.55000000436363px;
+	display: flex;
+	padding-right: 0.9093749999999999px;
+	padding-left: 0.9093749999999999px;
+	box-sizing: border-box;
+}
+.Homepage_Homepage .Header .Tools .Button .SVG_2 .Vector_3 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 87.50000000374901%;
+	height: 99.99999999625136%;
+}

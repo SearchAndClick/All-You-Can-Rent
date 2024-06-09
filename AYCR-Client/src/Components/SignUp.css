@@ -1,0 +1,360 @@
+
+.SignUp_SignUp {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.SignUp_SignUp .Signup {
+	position: absolute;
+	left: 91.66499999999999px;
+	top: 40.74px;
+	width: 1256.4062353515624px;
+	height: 704.7653289794922px;
+	background: rgba(255,255,255,1.00);
+	border: 0.6746166944503784px solid rgba(219.0000021457672,219.0000021457672,219.0000021457672,1);
+	box-sizing: border-box;
+}
+.SignUp_SignUp .Signup .AYCR {
+	position: absolute;
+	left: 853.6812280273438px;
+	top: 40.646220703124996px;
+	width: 116.39999999999999px;
+	height: 43.65px;
+	color: rgba(72,72,72,1.00);
+	font-family: Volkhov;
+	font-size: 43.579291801452634px;
+	font-weight: 400;
+	line-height: 43.579291801452634px;
+}
+.SignUp_SignUp .Signup .AYCRTermsCodnitions {
+	position: absolute;
+	left: 1026.437138671875px;
+	top: 638.2886547851563px;
+	width: 139.68px;
+	height: 26.189999999999998px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 10.470051097869872px;
+	font-weight: 400;
+	line-height: 26.17512496948242px;
+}
+.SignUp_SignUp .signuppage {
+	position: absolute;
+	left: 120.765px;
+	top: 136.77px;
+	width: 1086.8977880859375px;
+	height: 512.16px;
+}
+.SignUp_SignUp .signuppage .image948 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 563.085px;
+	height: 512.16px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.SignUp_SignUp .signuppage .AlreadyhaveanaccountLogin {
+	position: absolute;
+	left: 777.1637158203125px;
+	top: 477.09708129882813px;
+	width: 194px;
+	height: 27.16px;
+	color: rgba(0,0,0,1.00);
+	font-family: Telegraf;
+	font-size: 10.521749229431151px;
+	font-weight: 400;
+	line-height: 26.304374923706053px;
+}
+.SignUp_SignUp .signuppage .OR {
+	position: absolute;
+	left: 848.1856665039062px;
+	top: 194.9827880859375px;
+	width: 30.07px;
+	height: 27.16px;
+	color: rgba(131,131,131,1.00);
+	font-family: Poppins;
+	font-size: 19.728279342651366px;
+	font-weight: 700;
+	line-height: 26.304374923706053px;
+}
+.SignUp_SignUp .signuppage .CreateAccount {
+	position: absolute;
+	left: 648.93px;
+	top: 58.199999999999996px;
+	width: 144.53px;
+	height: 27.16px;
+	color: rgba(0,0,0,1.00);
+	font-family: Volkhov;
+	font-size: 19.728279342651366px;
+	font-weight: 400;
+	line-height: 26.304374923706053px;
+}
+.SignUp_SignUp .signuppage .Rectangle3 {
+	position: absolute;
+	left: 648.93px;
+	top: 103.57508911132813px;
+	width: 193.33715087890624px;
+	height: 36.16851459503174px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 5.260874614715576px;
+	border: 0.6779477596282959px solid rgba(91.00000217556953,134.00000721216202,229.00000154972076,1);
+	box-sizing: border-box;
+}
+.SignUp_SignUp .signuppage .Rectangle4 {
+	position: absolute;
+	left: 884.3541625976562px;
+	top: 103.57508911132813px;
+	width: 177.554521484375px;
+	height: 36.16851459503174px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 5.260874614715576px;
+	border: 0.6779477596282959px solid rgba(91.00000217556953,134.00000721216202,229.00000154972076,1);
+	box-sizing: border-box;
+}
+.SignUp_SignUp .signuppage .SignupwithGoogle {
+	position: absolute;
+	left: 701.5385278320313px;
+	top: 108.83596557617187px;
+	width: 120.28px;
+	height: 27.16px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 10.521749229431151px;
+	font-weight: 400;
+	line-height: 26.304374923706053px;
+}
+.SignUp_SignUp .signuppage .image939 {
+	position: absolute;
+	left: 669.3158666992188px;
+	top: 110.15112548828125px;
+	width: 23.67393669128418px;
+	height: 23.67393669128418px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.SignUp_SignUp .signuppage .SignupwithEmail {
+	position: absolute;
+	left: 934.3323706054687px;
+	top: 108.83596557617187px;
+	width: 109.61px;
+	height: 27.16px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 10.521749229431151px;
+	font-weight: 400;
+	line-height: 26.304374923706053px;
+}
+.SignUp_SignUp .signuppage .image940 {
+	position: absolute;
+	left: 898.1638745117187px;
+	top: 108.17832641601562px;
+	width: 27.61959403991699px;
+	height: 27.61959403991699px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.SignUp_SignUp .signuppage .Rectangle5 {
+	position: absolute;
+	left: 821.2236450195312px;
+	top: 206.1620617675781px;
+	width: 19.72828119277954px;
+	height: 3.2880468654632566px;
+	background: rgba(131,131,131,1.00);
+}
+.SignUp_SignUp .signuppage .Rectangle6 {
+	position: absolute;
+	left: 888.2997607421875px;
+	top: 206.1620617675781px;
+	width: 19.72828119277954px;
+	height: 3.2880468654632566px;
+	background: rgba(131,131,131,1.00);
+}
+.SignUp_SignUp .signuppage .inputname {
+	position: absolute;
+	left: 648.93px;
+	top: 265.34698120117184px;
+	width: 213.0654376220703px;
+	height: 30.907656631469727px;
+}
+.SignUp_SignUp .signuppage .inputname .FirstName {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 64.02px;
+	height: 27.16px;
+	color: rgba(157,157,157,1.00);
+	font-family: Poppins;
+	font-size: 10.521749229431151px;
+	font-weight: 400;
+	line-height: 26.304374923706053px;
+}
+.SignUp_SignUp .signuppage .inputname .Line1 {
+	position: absolute;
+	left: 0px;
+	top: 30.90761962890625px;
+	width: 213.0654376220703px;
+	height: 0.00001862677212102426px;
+	border: 0.6779477596282959px solid rgba(157.0000058412552,157.0000058412552,157.0000058412552,1);
+}
+.SignUp_SignUp .signuppage .inputname_1 {
+	position: absolute;
+	left: 873.8324096679687px;
+	top: 265.34698120117184px;
+	width: 213.0654376220703px;
+	height: 30.907656631469727px;
+}
+.SignUp_SignUp .signuppage .inputname_1 .LastName {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 64.02px;
+	height: 27.16px;
+	color: rgba(157,157,157,1.00);
+	font-family: Poppins;
+	font-size: 10.521749229431151px;
+	font-weight: 400;
+	line-height: 26.304374923706053px;
+}
+.SignUp_SignUp .signuppage .inputname_1 .Line1_1 {
+	position: absolute;
+	left: 0px;
+	top: 30.90761962890625px;
+	width: 213.0654376220703px;
+	height: 0.00001862677212102426px;
+	border: 0.6779477596282959px solid rgba(157.0000058412552,157.0000058412552,157.0000058412552,1);
+}
+.SignUp_SignUp .signuppage .inputname_2 {
+	position: absolute;
+	left: 648.93px;
+	top: 315.3253076171875px;
+	width: 213.0654376220703px;
+	height: 30.907656631469727px;
+}
+.SignUp_SignUp .signuppage .inputname_2 .EmailAddress {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 84.39px;
+	height: 27.16px;
+	color: rgba(157,157,157,1.00);
+	font-family: Poppins;
+	font-size: 10.521749229431151px;
+	font-weight: 400;
+	line-height: 26.304374923706053px;
+}
+.SignUp_SignUp .signuppage .inputname_2 .Line1_2 {
+	position: absolute;
+	left: 0px;
+	top: 30.90761962890625px;
+	width: 213.0654376220703px;
+	height: 0.00001862677212102426px;
+	border: 0.6779477596282959px solid rgba(157.0000058412552,157.0000058412552,157.0000058412552,1);
+}
+.SignUp_SignUp .signuppage .inputname_3 {
+	position: absolute;
+	left: 873.8324096679687px;
+	top: 315.3253076171875px;
+	width: 213.0654376220703px;
+	height: 30.907656631469727px;
+}
+.SignUp_SignUp .signuppage .inputname_3 .PhoneNumber {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 88.27px;
+	height: 27.16px;
+	color: rgba(157,157,157,1.00);
+	font-family: Poppins;
+	font-size: 10.521749229431151px;
+	font-weight: 400;
+	line-height: 26.304374923706053px;
+}
+.SignUp_SignUp .signuppage .inputname_3 .Line1_3 {
+	position: absolute;
+	left: 0px;
+	top: 30.90761962890625px;
+	width: 213.0654376220703px;
+	height: 0.00001862677212102426px;
+	border: 0.6779477596282959px solid rgba(157.0000058412552,157.0000058412552,157.0000058412552,1);
+}
+.SignUp_SignUp .signuppage .inputname_4 {
+	position: absolute;
+	left: 648.93px;
+	top: 365.30363403320314px;
+	width: 213.0654376220703px;
+	height: 30.907656631469727px;
+}
+.SignUp_SignUp .signuppage .inputname_4 .Password {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 57.23px;
+	height: 27.16px;
+	color: rgba(157,157,157,1.00);
+	font-family: Poppins;
+	font-size: 10.521749229431151px;
+	font-weight: 400;
+	line-height: 26.304374923706053px;
+}
+.SignUp_SignUp .signuppage .inputname_4 .Line1_4 {
+	position: absolute;
+	left: 0px;
+	top: 30.90761962890625px;
+	width: 213.0654376220703px;
+	height: 0.00001862677212102426px;
+	border: 0.6779477596282959px solid rgba(157.0000058412552,157.0000058412552,157.0000058412552,1);
+}
+.SignUp_SignUp .signuppage .inputname_5 {
+	position: absolute;
+	left: 873.8324096679687px;
+	top: 365.30363403320314px;
+	width: 213.0654376220703px;
+	height: 30.907656631469727px;
+}
+.SignUp_SignUp .signuppage .inputname_5 .ConfirmPassword {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 108.64px;
+	height: 27.16px;
+	color: rgba(157,157,157,1.00);
+	font-family: Poppins;
+	font-size: 10.521749229431151px;
+	font-weight: 400;
+	line-height: 26.304374923706053px;
+}
+.SignUp_SignUp .signuppage .inputname_5 .Line1_5 {
+	position: absolute;
+	left: 0px;
+	top: 30.90761962890625px;
+	width: 213.0654376220703px;
+	height: 0.00001862677212102426px;
+	border: 0.6779477596282959px solid rgba(157.0000058412552,157.0000058412552,157.0000058412552,1);
+}
+.SignUp_SignUp .signuppage .Rectangle7 {
+	position: absolute;
+	left: 674.5767431640625px;
+	top: 425.14607421875px;
+	width: 378.12534790039064px;
+	height: 39.45656238555908px;
+	background: rgba(0,0,0,1.00);
+	border-radius: 6.576093730926513px;
+}
+.SignUp_SignUp .signuppage .CreateAccount_1 {
+	position: absolute;
+	left: 816.6204077148437px;
+	top: 431.7221105957031px;
+	width: 95.06px;
+	height: 27.16px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 10.521749229431151px;
+	font-weight: 600;
+	line-height: 26.304374923706053px;
+}

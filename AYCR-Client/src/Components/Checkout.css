@@ -1,0 +1,829 @@
+
+.Checkout_Checkout {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.Checkout_Checkout .Ellipse5 {
+	position: absolute;
+	left: 1194px;
+	top: 58.5px;
+	width: 18px;
+	height: 18px;
+	background: rgba(255,6,6,1.00);
+	border-radius: 50%;
+}
+.Checkout_Checkout ._1 {
+	position: absolute;
+	left: 1200px;
+	top: 60px;
+	width: 5px;
+	height: 15px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Volkhov;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 15.479999542236328px;
+}
+.Checkout_Checkout .PageTitle {
+	position: absolute;
+	left: 641.25px;
+	top: 154.5px;
+	width: 158px;
+	height: 24px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Volkhov;
+	font-size: 31.5px;
+	font-weight: 400;
+	line-height: 24px;
+}
+.Checkout_Checkout .Seperator {
+	position: absolute;
+	left: 0px;
+	top: 211.5px;
+	width: 1440px;
+	height: 0px;
+	border: 0.75px solid rgba(0,0,0,1);
+}
+.Checkout_Checkout .Seperator_1 {
+	position: absolute;
+	left: 0px;
+	top: 1336.5px;
+	width: 1440px;
+	height: 0px;
+	border: 0.75px solid rgba(0,0,0,1);
+}
+.Checkout_Checkout .Seperator_2 {
+	position: absolute;
+	left: 719.9999508246883px;
+	top: 211.5px;
+	width: 0.00004917531168757705px;
+	height: 1125px;
+	border: 0.75px solid rgba(0,0,0,1);
+}
+.Checkout_Checkout .CartProducts {
+	position: absolute;
+	left: 720px;
+	top: 211.5px;
+	width: 720px;
+	height: 730.5px;
+}
+.Checkout_Checkout .CartProducts .BG {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 720px;
+	height: 730.5px;
+	background: rgba(245,245,245,1.00);
+}
+.Checkout_Checkout .CartProducts .Prooduct {
+	position: absolute;
+	left: 61.5px;
+	top: 39px;
+	width: 418.5px;
+	height: 268.5px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 418.5px;
+	height: 268.5px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .button {
+	position: absolute;
+	left: 297.75px;
+	top: 131.25px;
+	width: 120.75px;
+	height: 49.5px;
+	border-radius: 7.5px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .button .bg {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 120.75px;
+	height: 49.5px;
+	background: rgba(0,0,0,1.00);
+	border-radius: 7.5px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .button .Apply {
+	position: absolute;
+	left: 43.500244140625px;
+	top: 18.75px;
+	width: 35px;
+	height: 12px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 12px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .Discountcode {
+	position: absolute;
+	left: 0px;
+	top: 127.5px;
+	width: 285px;
+	height: 53.25px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .Discountcode .Rectangle19266 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 285px;
+	height: 53.25px;
+	background: rgba(255,255,255,1.00);
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .Discountcode .Discountcode_1 {
+	position: absolute;
+	left: 21px;
+	top: 17.25px;
+	width: 87px;
+	height: 18px;
+	color: rgba(72,72,72,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .Pricing {
+	position: absolute;
+	left: 0px;
+	top: 196.5px;
+	width: 418.25px;
+	height: 72px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .Pricing .Subtotal {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 51px;
+	height: 18px;
+	color: rgba(72,72,72,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .Pricing .Shipping {
+	position: absolute;
+	left: 0px;
+	top: 27px;
+	width: 53px;
+	height: 18px;
+	color: rgba(72,72,72,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .Pricing .Total {
+	position: absolute;
+	left: 0px;
+	top: 54px;
+	width: 30px;
+	height: 18px;
+	color: rgba(72,72,72,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .Pricing ._10000 {
+	position: absolute;
+	left: 374.25px;
+	top: 0px;
+	width: 44px;
+	height: 18px;
+	color: rgba(72,72,72,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .Pricing ._4000 {
+	position: absolute;
+	left: 374.25px;
+	top: 27px;
+	width: 41px;
+	height: 18px;
+	color: rgba(72,72,72,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .Pricing ._14000 {
+	position: absolute;
+	left: 374.25px;
+	top: 54px;
+	width: 44px;
+	height: 18px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .ProductName {
+	position: absolute;
+	left: 118.5px;
+	top: 40.5px;
+	width: 204px;
+	height: 17px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Volkhov;
+	font-size: 13.5px;
+	font-weight: 400;
+	line-height: 17.41499900817871px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .Rectangle19265 {
+	position: absolute;
+	left: 0px;
+	top: 9px;
+	width: 102.75px;
+	height: 102.75px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .Red {
+	position: absolute;
+	left: 118.5px;
+	top: 61.5px;
+	width: 23px;
+	height: 18px;
+	color: rgba(72,72,72,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo ._10000_1 {
+	position: absolute;
+	left: 374.25px;
+	top: 61.5px;
+	width: 44px;
+	height: 18px;
+	color: rgba(72,72,72,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo .Ellipse6 {
+	position: absolute;
+	left: 95.25px;
+	top: 0px;
+	width: 18px;
+	height: 18px;
+	background: rgba(255,6,6,1.00);
+	border-radius: 50%;
+}
+.Checkout_Checkout .CartProducts .Prooduct .ProductsInfo ._1_1 {
+	position: absolute;
+	left: 101.25px;
+	top: 1.5px;
+	width: 5px;
+	height: 15px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Volkhov;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 15.479999542236328px;
+}
+.Checkout_Checkout .Delivery {
+	position: absolute;
+	left: 237.75px;
+	top: 282.75px;
+	width: 455.25px;
+	height: 364.25px;
+}
+.Checkout_Checkout .Delivery .Delivery_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 142px;
+	height: 45px;
+	color: rgba(72,72,72,1.00);
+	font-family: Volkhov;
+	font-size: 34.5px;
+	font-weight: 400;
+	line-height: 44.50499725341797px;
+}
+.Checkout_Checkout .Delivery .Country {
+	position: absolute;
+	left: 0px;
+	top: 63.75px;
+	width: 455.25px;
+	height: 53.25px;
+}
+.Checkout_Checkout .Delivery .Country .Rectangle19268 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 455.25px;
+	height: 53.25px;
+	background: rgba(255,255,255,1.00);
+	border: 0.75px solid rgba(138.00000697374344,138.00000697374344,138.00000697374344,1);
+	box-sizing: border-box;
+}
+.Checkout_Checkout .Delivery .Country .Vector {
+	position: absolute;
+	left: 423px;
+	top: 24.75px;
+	width: 9px;
+	height: 6px;
+}
+.Checkout_Checkout .Delivery .Country .CountryRegion {
+	position: absolute;
+	left: 21px;
+	top: 17.25px;
+	width: 102px;
+	height: 18px;
+	color: rgba(138,138,138,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .Delivery .FirstName {
+	position: absolute;
+	left: 0px;
+	top: 129px;
+	width: 217.5px;
+	height: 53.25px;
+}
+.Checkout_Checkout .Delivery .FirstName .Rectangle19269 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 217.5px;
+	height: 53.25px;
+	background: rgba(255,255,255,1.00);
+	border: 0.75px solid rgba(138.00000697374344,138.00000697374344,138.00000697374344,1);
+	box-sizing: border-box;
+}
+.Checkout_Checkout .Delivery .FirstName .FirstName_1 {
+	position: absolute;
+	left: 21px;
+	top: 17.25px;
+	width: 64px;
+	height: 18px;
+	color: rgba(138,138,138,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .Delivery .City {
+	position: absolute;
+	left: 0px;
+	top: 259.5px;
+	width: 217.5px;
+	height: 53.25px;
+}
+.Checkout_Checkout .Delivery .City .Rectangle19272 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 217.5px;
+	height: 53.25px;
+	background: rgba(255,255,255,1.00);
+	border: 0.75px solid rgba(138.00000697374344,138.00000697374344,138.00000697374344,1);
+	box-sizing: border-box;
+}
+.Checkout_Checkout .Delivery .City .City_1 {
+	position: absolute;
+	left: 21px;
+	top: 17.25px;
+	width: 24px;
+	height: 18px;
+	color: rgba(138,138,138,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .Delivery .Address {
+	position: absolute;
+	left: 0px;
+	top: 194.25px;
+	width: 455.25px;
+	height: 53.25px;
+}
+.Checkout_Checkout .Delivery .Address .Rectangle19271 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 455.25px;
+	height: 53.25px;
+	background: rgba(255,255,255,1.00);
+	border: 0.75px solid rgba(138.00000697374344,138.00000697374344,138.00000697374344,1);
+	box-sizing: border-box;
+}
+.Checkout_Checkout .Delivery .Address .Address_1 {
+	position: absolute;
+	left: 21px;
+	top: 17.25px;
+	width: 49px;
+	height: 18px;
+	color: rgba(138,138,138,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .Delivery .LastName {
+	position: absolute;
+	left: 226.5px;
+	top: 129px;
+	width: 228.75px;
+	height: 53.25px;
+}
+.Checkout_Checkout .Delivery .LastName .Rectangle19270 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 228.75px;
+	height: 53.25px;
+	background: rgba(255,255,255,1.00);
+	border: 0.75px solid rgba(138.00000697374344,138.00000697374344,138.00000697374344,1);
+	box-sizing: border-box;
+}
+.Checkout_Checkout .Delivery .LastName .LastName_1 {
+	position: absolute;
+	left: 11.25px;
+	top: 17.25px;
+	width: 64px;
+	height: 18px;
+	color: rgba(138,138,138,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .Delivery .PostalCode {
+	position: absolute;
+	left: 226.5px;
+	top: 259.5px;
+	width: 228.75px;
+	height: 53.25px;
+}
+.Checkout_Checkout .Delivery .PostalCode .Rectangle19273 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 228.75px;
+	height: 53.25px;
+	background: rgba(255,255,255,1.00);
+	border: 0.75px solid rgba(138.00000697374344,138.00000697374344,138.00000697374344,1);
+	box-sizing: border-box;
+}
+.Checkout_Checkout .Delivery .PostalCode .PostalCode_1 {
+	position: absolute;
+	left: 11.25px;
+	top: 17.25px;
+	width: 73px;
+	height: 18px;
+	color: rgba(138,138,138,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .Delivery .Checkbox {
+	position: absolute;
+	left: 0px;
+	top: 332.25px;
+	width: 175.5px;
+	height: 32px;
+}
+.Checkout_Checkout .Delivery .Checkbox .PageTitle_1 {
+	position: absolute;
+	left: 31.5px;
+	top: 0px;
+	width: 144px;
+	height: 32px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(138,138,138,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 31.5px;
+}
+.Checkout_Checkout .Delivery .Checkbox .Rectangle19263 {
+	position: absolute;
+	left: 0px;
+	top: 3.75px;
+	width: 24px;
+	height: 24px;
+	border: 2.25px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Checkout_Checkout .Payment {
+	position: absolute;
+	left: 237.75px;
+	top: 702.75px;
+	width: 455.25px;
+	height: 348.75px;
+}
+.Checkout_Checkout .Payment .Payment_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 150px;
+	height: 45px;
+	color: rgba(72,72,72,1.00);
+	font-family: Volkhov;
+	font-size: 34.5px;
+	font-weight: 400;
+	line-height: 44.50499725341797px;
+}
+.Checkout_Checkout .Payment .CreditCardInfo {
+	position: absolute;
+	left: 0px;
+	top: 56.25px;
+	width: 455.25px;
+	height: 292.5px;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .BG_1 {
+	position: absolute;
+	left: 0px;
+	top: 53.25px;
+	width: 455.25px;
+	height: 239.25px;
+	background: rgba(245,245,245,1.00);
+}
+.Checkout_Checkout .Payment .CreditCardInfo .PaymentType {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 455.25px;
+	height: 53.25px;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .PaymentType .Rectangle19274 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 455.25px;
+	height: 53.25px;
+	background: rgba(255,255,255,1.00);
+	border: 0.75px solid rgba(138.00000697374344,138.00000697374344,138.00000697374344,1);
+	box-sizing: border-box;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .PaymentType .Vector_1 {
+	position: absolute;
+	left: 423px;
+	top: 23.25px;
+	width: 9px;
+	height: 6px;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .PaymentType .CreditCard {
+	position: absolute;
+	left: 21px;
+	top: 18px;
+	width: 70px;
+	height: 18px;
+	color: rgba(72,72,72,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .PaymentType .trustbagpng {
+	position: absolute;
+	left: 379.5px;
+	top: 16.5px;
+	width: 37.5px;
+	height: 18.75px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .CardHolderName {
+	position: absolute;
+	left: 15px;
+	top: 177.75px;
+	width: 425.25px;
+	height: 50.25px;
+	border-radius: 3px;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .CardHolderName .Rectangle19279 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 425.25px;
+	height: 50.25px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 3px;
+	border: 0.75px solid rgba(138.00000697374344,138.00000697374344,138.00000697374344,1);
+	box-sizing: border-box;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .CardHolderName .CardHolderName_1 {
+	position: absolute;
+	left: 16.5px;
+	top: 16.5px;
+	width: 112px;
+	height: 18px;
+	color: rgba(138,138,138,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .ExpirationDate {
+	position: absolute;
+	left: 15px;
+	top: 122.25px;
+	width: 210.75px;
+	height: 50.25px;
+	border-radius: 3px;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .ExpirationDate .Rectangle19277 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 210.75px;
+	height: 50.25px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 3px;
+	border: 0.75px solid rgba(138.00000697374344,138.00000697374344,138.00000697374344,1);
+	box-sizing: border-box;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .ExpirationDate .ExpirationDate_1 {
+	position: absolute;
+	left: 16.5px;
+	top: 16.5px;
+	width: 90px;
+	height: 18px;
+	color: rgba(138,138,138,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .SecurityCode {
+	position: absolute;
+	left: 229.5px;
+	top: 122.25px;
+	width: 210.75px;
+	height: 50.25px;
+	border-radius: 3px;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .SecurityCode .Rectangle19278 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 210.75px;
+	height: 50.25px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 3px;
+	border: 0.75px solid rgba(138.00000697374344,138.00000697374344,138.00000697374344,1);
+	box-sizing: border-box;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .SecurityCode .SecurityCode_1 {
+	position: absolute;
+	left: 16.5px;
+	top: 16.5px;
+	width: 84px;
+	height: 18px;
+	color: rgba(138,138,138,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .CardNumber {
+	position: absolute;
+	left: 15px;
+	top: 66.75px;
+	width: 425.25px;
+	height: 50.25px;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .CardNumber .Rectangle19276 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 425.25px;
+	height: 50.25px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 3px;
+	border: 0.75px solid rgba(138.00000697374344,138.00000697374344,138.00000697374344,1);
+	box-sizing: border-box;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .CardNumber .CardNumber_1 {
+	position: absolute;
+	left: 16.5px;
+	top: 16.5px;
+	width: 82px;
+	height: 18px;
+	color: rgba(138,138,138,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .CardNumber .icroundlock {
+	position: absolute;
+	left: 388.5px;
+	top: 15.75px;
+	width: 18px;
+	height: 18px;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .CardNumber .icroundlock .Vector_2 {
+	position: absolute;
+	left: 3px;
+	top: 0.75px;
+	width: 66.66666666666666%;
+	height: 87.5%;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .PageTitle_2 {
+	position: absolute;
+	left: 46.5px;
+	top: 240px;
+	width: 144px;
+	height: 32px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(138,138,138,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 31.5px;
+}
+.Checkout_Checkout .Payment .CreditCardInfo .Rectangle19263_1 {
+	position: absolute;
+	left: 15px;
+	top: 243.75px;
+	width: 24px;
+	height: 24px;
+	border: 2.25px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Checkout_Checkout .button_1 {
+	position: absolute;
+	left: 237.75px;
+	top: 1122.75px;
+	width: 455.25px;
+	height: 49.5px;
+	border-radius: 7.5px;
+}
+.Checkout_Checkout .button_1 .bg_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 455.25px;
+	height: 49.5px;
+	background: rgba(0,0,0,1.00);
+	border-radius: 7.5px;
+}
+.Checkout_Checkout .button_1 .PayNow {
+	position: absolute;
+	left: 202.5px;
+	top: 18.75px;
+	width: 51px;
+	height: 12px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 12px;
+}
+.Checkout_Checkout .copyrighttext {
+	position: absolute;
+	left: 366px;
+	top: 1200.75px;
+	width: 200px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(72,72,72,1.00);
+	font-family: Poppins;
+	font-size: 9px;
+	font-weight: 400;
+	line-height: 19.5px;
+}
